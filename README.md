@@ -22,3 +22,8 @@
 ```list-overdue:``` Показує список протермінованих завдань, тобто тих, що не виконані, а дедлайн вже пройшов.
 
 ```delete "<назва завдання>":``` Видаляє завдання зі списку, як виконане, так і невиконане.
+
+## How to run tests:
+
+1. If you alredy have cloned repository and installed dependecies, you should check if you are in the right directory: ```cd .\Methodology-labs-leagerxd-FinalConcluded\```
+2. Run tests with simple command: ```node tests.js```
