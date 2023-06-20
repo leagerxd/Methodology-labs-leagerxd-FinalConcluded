@@ -27,3 +27,6 @@
 
 1. If you alredy have cloned repository and installed dependecies, you should check if you are in the right directory: ```cd .\Methodology-labs-leagerxd-FinalConcluded\```
 2. Run tests with simple command: ```node tests.js```
+
+## Link to Design-Document:
+> # [Design Document](https://docs.google.com/document/d/166DTTn6kgMKkiVLquomTed3YqAGbgydJ8HtPonQSKTc/edit?usp=sharing)
