@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Updated Task",
+    "completed": true,
+    "completionDate": "2023-06-20",
+    "details": "Updated details",
+    "deadline": "2023-07-05"
+  },
+  {
+    "title": "Task 2",
+    "completed": true
+  },
+  {
+    "title": "New Task",
+    "details": "Some details about the task",
+    "deadline": "2023-06-30",
+    "completed": false
+  }
+]
